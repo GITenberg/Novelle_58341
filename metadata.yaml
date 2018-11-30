@@ -5,6 +5,9 @@ contributor:
     agent_name: Bignami, V.
     gutenberg_agent_id: '49899'
     url: http://www.gutenberg.org/2009/agents/49899
+covers:
+- cover_type: archival
+  image_path: 58341-h/images/cover.jpg
 creator:
   author:
     agent_name: De Amicis, Edmondo
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7650
     wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58341#Novelle
 gutenberg_issued: '2018-11-24'
 gutenberg_type: Text
 identifiers:
